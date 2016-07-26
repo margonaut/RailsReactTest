@@ -25,6 +25,23 @@ var CommentList = React.createClass({
   }
 });
 
+var CommentBox = React.createClass({
+  getInitialState: function() {
+
+  },
+  componentDidMount: function() {
+
+  },
+  loadCommentsFromServer: function() {
+
+  },
+  render: function() {
+    return (
+      <div className="CommentBox">haha</div>
+    )
+  }
+});
+
 
 var ready = function() {
   var fakeComments = [
