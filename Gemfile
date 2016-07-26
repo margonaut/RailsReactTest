@@ -8,6 +8,7 @@ gem 'jquery-rails'
 gem 'active_model_serializers'
 gem 'ffaker'
 gem 'responders', '~> 2.0'
+gem 'react-rails'
 
 group :development, :test do
   gem 'capybara'
